@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+label, p,h1, h2, h3 , h4, h5, h6 , button{
+   color: white;
+}
+
+
+button ,.btn-primary{
+background-color: #f57c00;
+border: none;
+}
+
+
+body{
+   background: linear-gradient(135deg, #121212, #1f1f1f, #2c2c2c, #3a3a3a);
+  min-height: 100vh; 
+}
+
+
+.pointer{
+   cursor: pointer;
+}
+
+
+.firebase-gradient  {
+ background: linear-gradient(135deg, #ffca28, #f57c00, #e53935);
+}
